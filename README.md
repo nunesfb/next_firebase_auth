@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Using authentication with Firebase, Next, and TypeScript
 
-## Getting Started
+<p align="justify">
+In this tutorial, we'll guide you through the process of implementing user authentication in your web application using Firebase, Next.js, and TypeScript. 
+  </p>
+  
+<p align="justify">
+Learn step-by-step how to set up Firebase authentication, integrate it seamlessly with your Next.js project, and leverage the power of TypeScript for a robust and type-safe authentication system.
+  </p>
 
-First, run the development server:
+<p align="justify">
+Whether you're a beginner or an experienced developer, this video provides valuable insights and practical tips to enhance your authentication workflow.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="justify">These codes belong to the video playlist on TecEdu4All's YouTube channel.</p> 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👨🏼‍💻 Professor
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [Felipe Becker Nunes](https://www.linkedin.com/in/felipe-becker-nunes-b561a576/)
 
-## Learn More
+## 💻 Video
 
-To learn more about Next.js, take a look at the following resources:
+- [Using authentication with Firebase, Next, and TypeScript](https://youtu.be/iQGr6h40y_s)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✋🏻 Prerequisites
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Node.js](https://nodejs.org/en/)
 
-## Deploy on Vercel
+## 🔥 Installation and Execution
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone this repository.
+2. Run the command npm i.
+3. Run the command npm run dev.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📝 Licence
+
+This project is under the MIT license. 
+
+---
+
+[Subscribe in the channel to see the videos of this code and much more!](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
